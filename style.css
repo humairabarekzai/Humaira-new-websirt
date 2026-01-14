@@ -1,0 +1,55 @@
+
+header{
+    background-color: rgb(4, 4, 67);
+     padding-bottom:56px;
+     padding-top: 8px;
+    
+}
+body{
+    background-color:rgb(241, 228, 212)
+}
+.language{
+    font-weight: bold;
+    color: rgb(4, 4, 67);
+}
+thead{
+    color: rgb(4, 4, 67);
+}
+nav{
+    padding: 12px;
+    
+}
+nav a {
+    text-decoration: none;  
+    color: white;           
+    padding: 10px 15px;       
+    font-weight: bold;
+  }
+  footer{
+    background-color: rgb(4, 4, 67);
+    height: 60px;
+    color: white;
+  }
+h1{
+    color: rgb(4, 4, 67);
+}
+h3{
+     color: rgb(4, 4, 67);
+}
+.humi{
+    border-radius: 80px;
+    float: right;
+    margin-top: 0;
+    width: 400px;
+    height: 350px;
+    
+}
+.photo{
+    border-radius: 50px;
+
+}
+.not{
+    margin: 20px;
+    padding: 3px;
+    color: darkblue;
+}
